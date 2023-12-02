@@ -42,3 +42,8 @@ sudo apt install exa
 echo -e "alias ls='exa --icons --color=always --group-directories-first'\nalias ll='exa -alF --icons --color=always --group-directories-first'\nalias la='exa -a --icons --color=always --group-directories-first'\nalias l='exa -F --icons --color=always --group-directories-first'" >> ~/.zshrc
 source ~/.zshrc
 ```
+
+# That's It
+
+![giphy](https://github.com/ACHUX21/Hyper-dotfiles/assets/130113878/38c90cf9-0244-4632-985f-24e20ffb2b59)
+
