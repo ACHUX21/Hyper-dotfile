@@ -1,5 +1,8 @@
 # Setting Up Hyper Terminal and OhMyZsh with Powerlevel10k Theme
 
+![image](https://github.com/ACHUX21/Hyper-dotfiles/assets/130113878/1e959a9a-bf00-47a6-aea2-5ce42b4eb22e)
+
+
 **Step 1: Install Hyper Terminal**
 Download the Hyper Terminal package using the following link: [Hyper Terminal Download](https://releases.hyper.is/download/deb) && dpkg -i hyper.deb
 ##
@@ -33,4 +36,9 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
 source ~/.zshrc
 ```
-
+**Step 6: Install Exa**
+```bash
+sudo apt install exa
+echo -e "alias ls='exa --icons --color=always --group-directories-first'\nalias ll='exa -alF --icons --color=always --group-directories-first'\nalias la='exa -a --icons --color=always --group-directories-first'\nalias l='exa -F --icons --color=always --group-directories-first'" >> ~/.zshrc
+source ~/.zshrc
+```
