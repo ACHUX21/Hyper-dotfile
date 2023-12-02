@@ -1,6 +1,8 @@
 # Setting Up Hyper Terminal and OhMyZsh with Powerlevel10k Theme
 
-![image](https://github.com/ACHUX21/Hyper-dotfiles/assets/130113878/1e959a9a-bf00-47a6-aea2-5ce42b4eb22e)
+![image](https://github.com/ACHUX21/Hyper-dotfiles/assets/130113878/6e92c766-5359-4ddf-bc69-71557a444cb7)
+
+
 
 
 **Step 1: Install Hyper Terminal**
